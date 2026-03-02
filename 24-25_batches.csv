@@ -1,0 +1,173 @@
+S.No,branch,company,year,salary,placed
+1,Civil Engineering,Tata Consultancy Services (Ninja),2025,1030580,yes
+2,Civil Engineering,Tata Consultancy Services (Ninja),2025,553642,yes
+3,Civil Engineering,L & T,2025,1088209,yes
+4,Civil Engineering,L & T,2025,490958,yes
+5,Civil Engineering,L & T,2025,1052867,yes
+6,Civil Engineering,L & T,2025,934259,yes
+7,Civil Engineering,UltraTech Cement Ltd,2025,889376,yes
+8,Civil Engineering,UltraTech Cement Ltd,2025,601678,yes
+1,EEE,Moschip,2025,769446,yes
+2,EEE,Tata Consultancy Services (Ninja),2025,965102,yes
+3,EEE,Tata Consultancy Services (Ninja),2025,855958,yes
+4,EEE,Tata Consultancy Services (Ninja),2025,952668,yes
+5,EEE,Tata Consultancy Services (Ninja),2025,986986,yes
+6,EEE,Tata Consultancy Services (Ninja),2025,807882,yes
+7,EEE,Tata Consultancy Services (Ninja),2025,989461,yes
+8,EEE,Tata Consultancy Services (Ninja),2025,848408,yes
+9,EEE,Tata Consultancy Services (Ninja),2025,587190,yes
+10,EEE,Tata Consultancy Services (Ninja),2025,727932,yes
+11,EEE,Tata Consultancy Services (Ninja),2025,546815,yes
+12,EEE,Tata Consultancy Services (Ninja),2025,619860,yes
+13,EEE,Tata Consultancy Services (Ninja),2025,553195,yes
+14,EEE,Tata Consultancy Services (Ninja),2025,720975,yes
+15,EEE,Tata Consultancy Services (Ninja),2025,980300,yes
+16,EEE,Jindal Saw Pvt.Ltd,2025,926844,yes
+17,EEE,Jindal Saw Pvt.Ltd,2025,844090,yes
+18,EEE,Medhaservo Drives Pvt.Ltd.,2025,704055,yes
+19,EEE,Divi's Laboratories Ltd.,2025,419620,yes
+20,EEE,Divi's Laboratories Ltd.,2025,507014,yes
+21,EEE,Yathva energy Solutions Pvt.Ltd.,2025,577764,yes
+22,EEE,Reliance Industries Ltd.,2025,400424,yes
+23,EEE,Reliance Industries Ltd.,2025,690505,yes
+1,Mechanical Engineering,Jindal Saw Pvt.Ltd,2025,700662,yes
+2,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,911772,yes
+3,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,537035,yes
+4,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,1060980,yes
+5,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,589786,yes
+6,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,947582,yes
+7,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,543611,yes
+8,Mechanical Engineering,Tata Consultancy Services (Ninja),2025,894795,yes
+9,Mechanical Engineering,L & T,2025,567889,yes
+10,Mechanical Engineering,L & T,2025,1067383,yes
+11,Mechanical Engineering,L & T,2025,773015,yes
+12,Mechanical Engineering,L & T,2025,717341,yes
+13,Mechanical Engineering,L & T,2025,750467,yes
+14,Mechanical Engineering,L & T,2025,876563,yes
+15,Mechanical Engineering,L & T,2025,662634,yes
+16,Mechanical Engineering,L & T,2025,1053229,yes
+17,Mechanical Engineering,Cognizant,2025,594943,yes
+18,Mechanical Engineering,UltraTech Cement Ltd,2025,709340,yes
+19,Mechanical Engineering,UltraTech Cement Ltd,2025,1066719,yes
+20,Mechanical Engineering,UltraTech Cement Ltd,2025,608879,yes
+21,Mechanical Engineering,UltraTech Cement Ltd,2025,801005,yes
+22,Mechanical Engineering,UltraTech Cement Ltd,2025,969126,yes
+23,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,885073,yes
+24,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,836363,yes
+25,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,942228,yes
+26,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,880089,yes
+27,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,607526,yes
+28,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,773561,yes
+29,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,476152,yes
+30,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,959945,yes
+31,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,487619,yes
+32,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,830792,yes
+33,Mechanical Engineering,INDO-MIM Pvt.Ltd,2025,938540,yes
+34,Mechanical Engineering,Divi's Laboratories Ltd.,2025,587505,yes
+35,Mechanical Engineering,Divi's Laboratories Ltd.,2025,1025986,yes
+36,Mechanical Engineering,Divi's Laboratories Ltd.,2025,431419,yes
+37,Mechanical Engineering,Divi's Laboratories Ltd.,2025,646216,yes
+38,Mechanical Engineering,Divi's Laboratories Ltd.,2025,1020642,yes
+39,Mechanical Engineering,Divi's Laboratories Ltd.,2025,805285,yes
+40,Mechanical Engineering,Divi's Laboratories Ltd.,2025,731103,yes
+41,Mechanical Engineering,Divi's Laboratories Ltd.,2025,400993,yes
+42,Mechanical Engineering,Divi's Laboratories Ltd.,2025,905477,yes
+43,Mechanical Engineering,Reliance Industries Ltd.,2025,469922,yes
+44,Mechanical Engineering,Reliance Industries Ltd.,2025,550791,yes
+45,Mechanical Engineering,Apollo Tyres Ltd,2025,615452,yes
+1,ECE,Medhaservo Drives Pvt.Ltd.,2025,1050369,yes
+2,ECE,Moschip,2025,694410,yes
+3,ECE,Moschip,2025,1088473,yes
+4,ECE,Moschip,2025,701077,yes
+5,ECE,Moschip,2025,587006,yes
+6,ECE,Tata Consultancy Services (Ninja),2025,520133,yes
+7,ECE,Tata Consultancy Services (Ninja),2025,844780,yes
+8,ECE,Tata Consultancy Services (Ninja),2025,404292,yes
+9,ECE,Tata Consultancy Services (Ninja),2025,955929,yes
+10,ECE,Tata Consultancy Services (Ninja),2025,767835,yes
+11,ECE,Tata Consultancy Services (Ninja),2025,815642,yes
+12,ECE,Tata Consultancy Services (Ninja),2025,1082829,yes
+13,ECE,Tata Consultancy Services (Ninja),2025,1074405,yes
+14,ECE,Tata Consultancy Services (Ninja),2025,889474,yes
+15,ECE,Tata Consultancy Services (Ninja),2025,981751,yes
+16,ECE,Tata Consultancy Services (Ninja),2025,665137,yes
+17,ECE,Tata Consultancy Services (Ninja),2025,1040481,yes
+18,ECE,Tata Consultancy Services (Ninja),2025,499212,yes
+19,ECE,Tata Consultancy Services (Ninja),2025,980255,yes
+20,ECE,Tata Consultancy Services (Ninja),2025,1005162,yes
+21,ECE,GrayMatters Software Services Pvt.Ltd,2025,670983,yes
+1,CSE,FactSet,2025,480495,yes
+2,CSE,FactSet,2025,914717,yes
+3,CSE,FactSet,2025,1034969,yes
+1,Chemical Engineering,Tata Consultancy Services Ninja,2025,973541,yes
+2,Chemical Engineering,UltraTech Cement Ltd,2025,440032,yes
+3,Chemical Engineering,UltraTech Cement Ltd,2025,558966,yes
+4,Chemical Engineering,UltraTech Cement Ltd,2025,784679,yes
+5,Chemical Engineering,UltraTech Cement Ltd,2025,583339,yes
+6,Chemical Engineering,UltraTech Cement Ltd,2025,660034,yes
+7,Chemical Engineering,Divi's Laboratories Ltd.,2025,564006,yes
+8,Chemical Engineering,Divi's Laboratories Ltd.,2025,444471,yes
+9,Chemical Engineering,Divi's Laboratories Ltd.,2025,704136,yes
+10,Chemical Engineering,Divi's Laboratories Ltd.,2025,864386,yes
+11,Chemical Engineering,Divi's Laboratories Ltd.,2025,893159,yes
+12,Chemical Engineering,Divi's Laboratories Ltd.,2025,906753,yes
+13,Chemical Engineering,Divi's Laboratories Ltd.,2025,722766,yes
+14,Chemical Engineering,Divi's Laboratories Ltd.,2025,893826,yes
+15,Chemical Engineering,Divi's Laboratories Ltd.,2025,520074,yes
+16,Chemical Engineering,Divi's Laboratories Ltd.,2025,1003049,yes
+4,CSE,FactSet,2025,1190967,yes
+5,CSE,FactSet,2025,307780,yes
+6,CSE,Tata Consultancy Services (Ninja),2025,957788,yes
+7,CSE,Tata Consultancy Services (Ninja),2025,841666,yes
+8,CSE,Tata Consultancy Services (Ninja),2025,929349,yes
+9,CSE,Tata Consultancy Services (Ninja),2025,949732,yes
+10,CSE,Tata Consultancy Services (Ninja),2025,1127147,yes
+11,CSE,Tata Consultancy Services (Ninja),2025,1076518,yes
+12,CSE,Tata Consultancy Services (Ninja),2025,590549,yes
+13,CSE,Tata Consultancy Services (Ninja),2025,552253,yes
+14,CSE,Tata Consultancy Services (Ninja),2025,556556,yes
+15,CSE,Tata Consultancy Services Digital,2025,419585,yes
+16,CSE,Tata Consultancy Services Ninja,2025,462007,yes
+17,CSE,Tata Consultancy Services Ninja,2025,626947,yes
+18,CSE,Tata Consultancy Services Ninja,2025,653929,yes
+19,CSE,Tata Consultancy Services Ninja,2025,1062025,yes
+20,CSE,Tata Consultancy Services Ninja,2025,770309,yes
+21,CSE,Tata Consultancy Services Ninja,2025,1195029,yes
+22,CSE,Tata Consultancy Services Digital,2025,1110641,yes
+23,CSE,Tata Consultancy Services Ninja,2025,1177748,yes
+24,CSE,Tata Consultancy Services Digital,2025,1093828,yes
+25,CSE,Tata Consultancy Services Ninja,2025,383570,yes
+26,CSE,Tata Consultancy Services Prime,2025,974560,yes
+27,CSE,Tata Consultancy Services Prime,2025,810445,yes
+28,CSE,Tata Consultancy Services Ninja,2025,1011046,yes
+29,CSE,Tata Consultancy Services Ninja,2025,627282,yes
+30,CSE,Tata Consultancy Services Digital,2025,1183451,yes
+31,CSE,Tata Consultancy Services Ninja,2025,560227,yes
+32,CSE,Tata Consultancy Services Ninja,2025,1128758,yes
+33,CSE,Tata Consultancy Services Prime,2025,923532,yes
+34,CSE,Tata Consultancy Services Digital,2025,509594,yes
+35,CSE,Tata Consultancy Services Digital,2025,1076390,yes
+36,CSE,Tata Consultancy Services Digital,2025,965963,yes
+37,CSE,Tata Consultancy Services Digital,2025,469386,yes
+38,CSE,Tata Consultancy Services Digital,2025,784137,yes
+39,CSE,Tata Consultancy Services Digital,2025,1005950,yes
+40,CSE,Tata Consultancy Services Ninja,2025,587086,yes
+41,CSE,Tata Consultancy Services Ninja,2025,1125573,yes
+42,CSE,Tata Consultancy Services Ninja,2025,826762,yes
+43,CSE,Tata Consultancy Services Ninja,2025,999303,yes
+44,CSE,Tata Consultancy Services Ninja,2025,1182112,yes
+45,CSE,Tata Consultancy Services Ninja,2025,735732,yes
+46,CSE,Tata Consultancy Services Prime,2025,915755,yes
+47,CSE,Cognizant,2025,523385,yes
+48,CSE,Cognizant,2025,402150,yes
+49,CSE,Cognizant,2025,576878,yes
+50,CSE,Cognizant,2025,306265,yes
+51,CSE,Cognizant,2025,1018903,yes
+52,CSE,Cognizant,2025,457534,yes
+53,CSE,Cognizant,2025,440128,yes
+54,CSE,Cognizant,2025,425051,yes
+55,CSE,GrayMatters Software Services Pvt.Ltd,2025,724563,yes
+56,CSE,GrayMatters Software Services Pvt.Ltd,2025,1128064,yes
+57,CSE,Hashedin by Deloitte,2025,757127,yes
+58,CSE,Radware,2025,551396,yes
+59,CSE,Radware,2025,561475,yes
